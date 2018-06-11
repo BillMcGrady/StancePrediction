@@ -8,6 +8,10 @@ This repository provides a reference implementation of debate stance prediction 
 
 ### Basic Usage
 
+#### Data and Saved Models
+
+Download the dataset and saved models from https://figshare.com/projects/Debate_Stance_Prediction/35072. Uncompress the zip files and put 'data' and 'result' folders in the root directory.
+
 #### Example
 Run:
 
