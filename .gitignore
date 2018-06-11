@@ -1,0 +1,5 @@
+code/__pycache__/*
+data/*
+result/*
+gurobi.log
+
